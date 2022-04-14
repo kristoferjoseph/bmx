@@ -1,0 +1,21 @@
+{
+  "name": "bmx",
+  "version": "0.0.0-alpha",
+  "description": "Begin flavored markdown",
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristoferjoseph/bmx.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kristoferjoseph/bmx/issues"
+  },
+  "homepage": "https://github.com/kristoferjoseph/bmx#readme"
+}
